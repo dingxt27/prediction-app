@@ -1,7 +1,7 @@
 # prediction-app
 
 ### Project work flow diagram:
-![workflow](workflow.png)
+![workflow](workflow2.png)
 
 ### Build with Docker:
 ```
